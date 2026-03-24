@@ -4,7 +4,7 @@
   </a>
 </p>
 
-# Nike (NKE) Stock Market Price Data (2000-2026) -> PRD (app.md)
+# Nike (NKE) Stock Market Price Data (2000-2026)
 ## e. Dataset Coverage
 This dataset comprehensively covers the daily stock market trading data for Nike Inc. (Ticker: NKE), an American multinational corporation engaged in the design, development, manufacturing, and worldwide marketing and sales of footwear, apparel, equipment, accessories, and services. The data reflects trading activity on major US exchanges.
 
